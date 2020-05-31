@@ -11,6 +11,7 @@ namespace AMIDevice
 		static void Main(string[] args)
 		{
             Console.WriteLine();
+            Console.WriteLine();
 		}
 	}
 }
