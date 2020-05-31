@@ -10,8 +10,8 @@ namespace AMIDevice
 	{
 		static void Main(string[] args)
 		{
-            Console.WriteLine();
-            Console.WriteLine();
+			for (int i = 0; i < 5; i++)
+				Console.WriteLine(++i);
 		}
 	}
 }
